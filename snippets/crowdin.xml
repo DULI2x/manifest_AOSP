@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="pixel"
-          fetch="https://github.com/PixelExperience"
+          fetch="https://github.com/zebraoffersp"
           revision="twelve"
           review="gerrit.pixelexperience.org" />
 
