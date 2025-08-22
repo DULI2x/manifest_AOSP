@@ -2,29 +2,29 @@
 <manifest>
 
   <remote name="pixel"
-          fetch="https://github.com/PixelExperience"
+          fetch="https://github.com/zebraoffersp"
           revision="twelve"
-          review="gerrit.pixelexperience.org" />
+          review="gerrit.zebraoffersp.org" />
 
   <remote name="pixel-plus"
-          fetch="https://github.com/PixelExperience"
+          fetch="https://github.com/zebraoffersp"
           revision="twelve-plus"
-          review="gerrit.pixelexperience.org" />
+          review="gerrit.zebraoffersp.org" />
 
   <remote name="pixel-gitlab"
-          fetch="https://gitlab.com/PixelExperience/twelve"
+          fetch="https://gitlab.com/zebraoffersp/twelve"
           revision="twelve" />
 
   <remote name="pixel-gitlab-self-hosted"
-          fetch="https://gitlab.pixelexperience.org/android"
+          fetch="https://gitlab.zebraoffersp.org/android"
           revision="twelve" />
 
   <remote name="pixel-devices"
-          fetch="https://github.com/PixelExperience-Devices"
+          fetch="https://github.com/zebraoffersp-Devices"
           revision="twelve" />
 
   <remote name="pixel-devices-blobs"
-          fetch="https://gitlab.pixelexperience.org/android/vendor-blobs"
+          fetch="https://gitlab.zebraoffersp.org/android/vendor-blobs"
           revision="twelve" />
 
   <!-- External repos -->
